@@ -1,10 +1,10 @@
 # appmotoboy
 
-A new Flutter application.
+Um Aplicativo que ira fazer o uso do Firebase e de Localização em tempo real do Dispositivo.
 
-## Getting Started
+## App Distribuição peresAPP
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
